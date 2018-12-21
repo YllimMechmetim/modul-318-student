@@ -1,0 +1,16 @@
+C:\Users\ylli_\OneDrive\Dokumente\Bénédict\Modul 318\ÜK\Fahrplanapplikation\Fahrplanapplikation\bin\Release\Fahrplanapplikation.exe.config
+C:\Users\ylli_\OneDrive\Dokumente\Bénédict\Modul 318\ÜK\Fahrplanapplikation\Fahrplanapplikation\bin\Release\Fahrplanapplikation.exe
+C:\Users\ylli_\OneDrive\Dokumente\Bénédict\Modul 318\ÜK\Fahrplanapplikation\Fahrplanapplikation\bin\Release\Fahrplanapplikation.pdb
+C:\Users\ylli_\OneDrive\Dokumente\Bénédict\Modul 318\ÜK\Fahrplanapplikation\Fahrplanapplikation\bin\Release\SwissTransport.dll
+C:\Users\ylli_\OneDrive\Dokumente\Bénédict\Modul 318\ÜK\Fahrplanapplikation\Fahrplanapplikation\bin\Release\Newtonsoft.Json.dll
+C:\Users\ylli_\OneDrive\Dokumente\Bénédict\Modul 318\ÜK\Fahrplanapplikation\Fahrplanapplikation\bin\Release\SwissTransport.pdb
+C:\Users\ylli_\OneDrive\Dokumente\Bénédict\Modul 318\ÜK\Fahrplanapplikation\Fahrplanapplikation\bin\Release\Newtonsoft.Json.pdb
+C:\Users\ylli_\OneDrive\Dokumente\Bénédict\Modul 318\ÜK\Fahrplanapplikation\Fahrplanapplikation\bin\Release\Newtonsoft.Json.xml
+C:\Users\ylli_\OneDrive\Dokumente\Bénédict\Modul 318\ÜK\Fahrplanapplikation\Fahrplanapplikation\obj\Release\Fahrplanapplikation.csprojAssemblyReference.cache
+C:\Users\ylli_\OneDrive\Dokumente\Bénédict\Modul 318\ÜK\Fahrplanapplikation\Fahrplanapplikation\obj\Release\Fahrplanapplikation.Form1.resources
+C:\Users\ylli_\OneDrive\Dokumente\Bénédict\Modul 318\ÜK\Fahrplanapplikation\Fahrplanapplikation\obj\Release\Fahrplanapplikation.Properties.Resources.resources
+C:\Users\ylli_\OneDrive\Dokumente\Bénédict\Modul 318\ÜK\Fahrplanapplikation\Fahrplanapplikation\obj\Release\Fahrplanapplikation.csproj.GenerateResource.cache
+C:\Users\ylli_\OneDrive\Dokumente\Bénédict\Modul 318\ÜK\Fahrplanapplikation\Fahrplanapplikation\obj\Release\Fahrplanapplikation.csproj.CoreCompileInputs.cache
+C:\Users\ylli_\OneDrive\Dokumente\Bénédict\Modul 318\ÜK\Fahrplanapplikation\Fahrplanapplikation\obj\Release\Fahrplanapplikation.csproj.CopyComplete
+C:\Users\ylli_\OneDrive\Dokumente\Bénédict\Modul 318\ÜK\Fahrplanapplikation\Fahrplanapplikation\obj\Release\Fahrplanapplikation.exe
+C:\Users\ylli_\OneDrive\Dokumente\Bénédict\Modul 318\ÜK\Fahrplanapplikation\Fahrplanapplikation\obj\Release\Fahrplanapplikation.pdb
